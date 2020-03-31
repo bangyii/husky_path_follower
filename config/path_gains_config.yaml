@@ -1,0 +1,9 @@
+point1: [0.0, 0.0]
+point2: [8.0, -2.0]
+point3: [10.0, 0.0]
+point4: [14.0, -2.0]
+point5: [21.0, 5.0]
+point6: [14.0, 4.0]
+linearGain: 4.0
+angularGain: 3.0
+Bezier: true
